@@ -32,3 +32,6 @@ set showcmd
 
 "去掉vi一致性模式
 set nocompatible
+
+"设置编码格式为UTF-8
+set encoding=utf-8 fileencodings=utf-8
