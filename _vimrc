@@ -1,14 +1,11 @@
-常用的vimrc配置
-
-
-"设置desert风格 
-colorscheme desert 
+"设置desert风格
+colorscheme desert
 
 "设置行号
-set nu 
+set nu
 
 "设置Consolas字体风格，字体大小14
-set guifont=Consolas:h14 
+set guifont=Consolas:h14
 
 "设置tab为4个空格键
 set tabstop=4
