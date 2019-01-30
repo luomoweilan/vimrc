@@ -9,11 +9,15 @@ set guifont=Consolas:h14
 
 "设置tab为4个空格键
 set tabstop=4
-set expandtab
-set autoindent
 
 "设置Shift+>缩进为4个空格键
 set shiftwidth=4
+
+"设置空格代替tab键
+set expandtab
+
+"设置自动缩进
+set autoindent
 set smartindent
 
 "设置不保存备份文件
